@@ -4,6 +4,12 @@
     margin: 0;
     box-sizing: border-box;
 }
+menu{
+    align-items: center;
+    margin-top: 10px;
+    columns: 300px;
+    margin-inline: -100px;
+}
 
 html{
     font-size: 10px;
